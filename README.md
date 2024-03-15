@@ -4,7 +4,7 @@
 ## Introduction
 Alex is a young entrepreneur who is out to assemble his own football team to enter the FPL. Ambitious much? Well, he seems to have the resources to do it though. He has collected data on players across various teams. He now needs to arrange this data in order to make sense of it. He needs an application that will help him compare and contrast the abilities of different players.
 
-Alas, for all the money in the world, he can't find a decent programmer to help him with this task. He's designed the front end of the application, and it looks great. He needs **YOU** to help him code the functionalities in the back end, though. Go to the `src/app.js` file and complete all the unfinished code to propel this young man's football dream.
+Alas, for all the money in the wrld, he can't find a decent programmer to help him with this task. He's designed the front end of the application, and it looks great. He needs **YOU** to help him code the functionalities in the back end, though. Go to the `src/app.js` file and complete all the unfinished code to propel this young man's football dream.
 
 ## What should you do
 
