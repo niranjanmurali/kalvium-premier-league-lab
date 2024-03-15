@@ -329,10 +329,3 @@ function sortButtonHandler(evt) {
   }
 }
 
-//max and min age among players (for age slider)
-// var minAge = 100;
-// var maxAge = 0;
-// players.forEach(e => {
-//   minAge = minAge > e.age ? e.age : minAge;
-//   maxAge = maxAge < e.age ? e.age : maxAge;
-// });
